@@ -10,10 +10,10 @@ public class ex2_1 {
 		System.out.println("Hello");
 		System.out.println("Hello");
 		System.out.println("Hello");
-		System.out.println(5+3);
-		System.out.println(5-3); 
-		System.out.println(5*3);
-		System.out.println(5/3);
+		System.out.println(5+3); //µ¡¼À
+		System.out.println(5-3); //»¬¼À 
+		System.out.println(5*3); //°ö¼À
+		System.out.println(5/3); //³ª´°¼À
 	}
 
 }
